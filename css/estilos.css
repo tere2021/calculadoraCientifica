@@ -28,7 +28,7 @@ body {
  
   .grid-itemEncabezado {
     display: flex;
-    background-image: url("/img/fondoD.jpg");
+    background-image: url("img/fondoD.jpg");
     background-repeat: no-repeat;
     background-position: top;
     text-align: center;
